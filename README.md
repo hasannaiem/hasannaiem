@@ -155,4 +155,6 @@
 
 <div align="center">
   <sub>Built with discipline · 4-tier POM · BMAD · 10-layer testing</sub>
+  <br/>
+  <sub><i>Last updated: 2026-05-14</i></sub>
 </div>
