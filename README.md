@@ -10,7 +10,7 @@
 </h1>
 
 <p>
-  <em>Senior-minded QA Engineer · Dhaka, Bangladesh · UTC+6</em>
+  <em>QA Engineer · Dhaka, Bangladesh · UTC+6</em>
 </p>
 
 <a href="https://github.com/hasannaiem?tab=followers">
